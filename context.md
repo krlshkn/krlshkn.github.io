@@ -1,4 +1,4 @@
-<img width="974" height="1454" alt="image" src="https://github.com/user-attachments/assets/58a2c379-05b6-4828-9c48-b8687f7f296c" /># 1. Контекст и границы SoI
+# 1. Контекст и границы SoI
 
 *Информационная система аренды парковочных мест в жилых комплексах «ParkPoint»*
 
