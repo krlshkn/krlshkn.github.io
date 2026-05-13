@@ -1,4 +1,4 @@
-# 1. Контекст и границы SoI
+<img width="974" height="1454" alt="image" src="https://github.com/user-attachments/assets/58a2c379-05b6-4828-9c48-b8687f7f296c" /># 1. Контекст и границы SoI
 
 *Информационная система аренды парковочных мест в жилых комплексах «ParkPoint»*
 
@@ -93,7 +93,7 @@
 ## 1.4 Контекстная диаграмма
 
 
-
+<img width="974" height="1454" alt="diagr" src="https://github.com/user-attachments/assets/7a034fc7-cb8e-4831-8c8c-dabb64262773" />
 
 **Взаимодействие на диаграмме:**
 
